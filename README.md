@@ -1,3 +1,3 @@
 # TSZ
 themenstationszuweisung
-intergrated with jenkins
+testing a integration with jenkins
